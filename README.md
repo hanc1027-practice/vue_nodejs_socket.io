@@ -28,7 +28,7 @@ $ cd [專案名]
 $ npm install vue-socket.io
 ```
 
-2) Socket.ios設定
+2) Socket.io設定
 - main.js設定如下
 ```js
 import Vue from 'vue'
